@@ -35,7 +35,7 @@
 
        react에서는 변수가 바뀐다해서 리랜더링이 일어나지 않는다
        
-![image](https://github.com/hyejin192/react_basic/assets/129017064/ea4253b7-7723-465d-a8c1-7ba0cdad9db3)
+![image](https://github.com/hyejin192/react_basic/assets/129017064/72b3038a-391c-4452-bd60-8b27f748ba39)
 
        ▶️ 해결책 : 리랜더링이 일어나게 하려면 useState(react Hook)를 사용해야 한다.
 
