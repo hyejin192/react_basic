@@ -29,6 +29,16 @@
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/f20660b0-3401-407a-8c10-3fa19502015f)
        
        화살표함수로 변경
+       
+## console에는 숫자가 바뀌어지는데 화면에는 바뀌지 않는다 (react는 값을 바꾸지 않음)
+![image](https://github.com/hyejin192/react_basic/assets/129017064/b91f9d93-1db5-4e07-8cb0-1ad6f061ad85)
+
+       react에서는 변수가 바뀐다해서 리랜더링이 일어나지 않는다
+       
+![image](https://github.com/hyejin192/react_basic/assets/129017064/ea4253b7-7723-465d-a8c1-7ba0cdad9db3)
+
+       ▶️ 해결책 : 리랜더링이 일어나게 하려면 useState(react Hook)를 사용해야 한다.
+
 
 
 
