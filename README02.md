@@ -1,9 +1,9 @@
-# componet 만들기
+# 📰 componet 만들기
 
        폴더 #react2 참조 
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/221c642b-027d-4849-bde7-1edf42a51c93)
 
-# JSX문법
+# 🧃 JSX문법
 
       JAVASCRIPT를 사용할 때는 {}을 사용한다
 ## html의 class를 react에서 만들 때는 className=""의 형식으로 만든다
@@ -21,8 +21,14 @@
 
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/81786e01-67ea-4f32-bb49-bf2ddc3f06ac)
 
-      화살표함수
+      ➡️ 화살표함수
 
+![image](https://github.com/hyejin192/react_basic/assets/129017064/cb5f49c0-1e63-4e81-8149-2c16d31e0f58)
+
+       🖱️ 클릭했을 때 함수 실행 (Event Handling)
+![image](https://github.com/hyejin192/react_basic/assets/129017064/f20660b0-3401-407a-8c10-3fa19502015f)
+       
+       화살표함수로 변경
 
 
 
