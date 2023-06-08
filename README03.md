@@ -21,7 +21,11 @@
 
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/4de7ad75-49d4-4066-9ed9-8594e74fc0c1)
 
+      배열이 비어있을 땐 한 번만 실행이 됨
+
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/a8036979-277a-4768-9406-20ad2ad2c181)
+
+      배열이 존재하지 않을 땐 처음 한 번은 무조건 실행되고, 그 이후엔 랜더링 될 때마다 실행
 
 
       
