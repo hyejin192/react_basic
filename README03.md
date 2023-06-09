@@ -26,6 +26,12 @@
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/a8036979-277a-4768-9406-20ad2ad2c181)
 
       배열이 존재하지 않을 땐 처음 한 번은 무조건 실행되고, 그 이후엔 랜더링 될 때마다 실행
+      
+### 자식요소에 값을 전달
+![image](https://github.com/hyejin192/react_basic/assets/129017064/097ee347-2469-4f25-8aa6-079761fb9c08)
+
+      
+
 
 
       
