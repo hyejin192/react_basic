@@ -32,4 +32,12 @@
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/4cbc32cd-d5e8-4b68-aabb-e99e5a8df43f)
 
     터미널에 +누르고 powershell 새창에 입력
+![image](https://github.com/hyejin192/react_basic/assets/129017064/85599223-2537-42bc-9768-e05a2b75948d)
+![image](https://github.com/hyejin192/react_basic/assets/129017064/14ff49d5-7f3b-4c9a-9eac-1a7c37f4e6f2)
+
+![image](https://github.com/hyejin192/react_basic/assets/129017064/d95109e8-4982-44aa-9d61-283550b0f7e9)
+![image](https://github.com/hyejin192/react_basic/assets/129017064/0bc2fcea-b426-49a5-82c0-ae3bddf683f1)
+![image](https://github.com/hyejin192/react_basic/assets/129017064/75cb078b-5729-44f8-a66e-db7872df3e91)
+
+
 
