@@ -24,3 +24,12 @@
    #### ❗ 실행이 안된다면
    npx json-server --watch db.json --port 3004
 
+## 🧀 서버와 통신하기(npm axios 검색)
+![image](https://github.com/hyejin192/react_basic/assets/129017064/f2bcb087-53c9-452f-963a-4b2a0c54e180)
+
+        npm i axios
+        
+![image](https://github.com/hyejin192/react_basic/assets/129017064/4cbc32cd-d5e8-4b68-aabb-e99e5a8df43f)
+
+    터미널에 +누르고 powershell 새창에 입력
+
