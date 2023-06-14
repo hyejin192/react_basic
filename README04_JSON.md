@@ -40,10 +40,7 @@
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/0bc2fcea-b426-49a5-82c0-ae3bddf683f1)
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/75cb078b-5729-44f8-a66e-db7872df3e91)
 
-## json start 설정
-![image](https://github.com/hyejin192/react_basic/assets/129017064/84b9d1b6-7149-490f-a295-7952015ccd6f)
 
-    "db"에 이름을 json 시작명령을 적용하고, 터미널에 실행할 때 npm run db를 적어 실행한다.
 
 
 
