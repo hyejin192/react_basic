@@ -13,7 +13,7 @@
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/7e0972e4-4ee1-46d2-9096-de178cfbefe2)\
 
       route는 routes로 감싼다.
-      route안에 path,element 작성
+      route안에 path,element 작성 ( path='/' 는 첫페이지 기본값)
       element 안에 각각의 js를 연결
       <Link to="/about">Go to about</Link> 는 <a href="/about">Go to about</a> 와 같음
       link로 about을 연결해도 되고, navigate를 사용해 연결해도 된다.
