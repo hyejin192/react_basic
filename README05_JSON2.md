@@ -7,3 +7,8 @@
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/a17468e5-20c3-45d0-9713-3da9df26f083)
 
     npm i react-router-dom
+    
+![image](https://github.com/hyejin192/react_basic/assets/129017064/19a51906-fd7d-4759-90fe-a728ec64ca9e)
+
+    index.js에 BrowserRouter 태그 추가
+
