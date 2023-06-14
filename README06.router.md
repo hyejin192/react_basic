@@ -17,6 +17,8 @@
       element 안에 각각의 js를 연결
       <Link to="/about">Go to about</Link> 는 <a href="/about">Go to about</a> 와 같음
       link로 about을 연결해도 되고, navigate를 사용해 연결해도 된다.
+      
+      * button은 link를 걸 수 없기때문에 navigate를 사용
 
 
 
