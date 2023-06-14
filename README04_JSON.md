@@ -1,4 +1,5 @@
 # 🌸 json-server
+(npx:한번만 실행하고 죽어버린다. npm:여러번 실행할 때 사용)
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/14f8e131-817a-48d3-82bf-774fd3f3fd8f)
 
     npm i json-server
