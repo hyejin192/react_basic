@@ -28,6 +28,12 @@
       자원을 이름(자원의 표현)으로 구분하여 해당 자원의 상태(정보)를 주고 받는 모든 것을 의미
 
  ![image](https://github.com/hyejin192/react_basic/assets/129017064/3d6b7799-f473-4465-9050-ba8b602890ed)
+ 
+ ![image](https://github.com/hyejin192/react_basic/assets/129017064/220b8edc-2f32-4cf6-9795-57ce101619fe)
+   
+![image](https://github.com/hyejin192/react_basic/assets/129017064/cb9fc4dc-7931-4771-b33e-17d27ef799fa)
+
+
 
 
 
