@@ -19,6 +19,10 @@
       link로 about을 연결해도 되고, navigate를 사용해 연결해도 된다.
       
       * button은 link를 걸 수 없기때문에 navigate를 사용
+      
+ ## route.js를 사용
+ ![image](https://github.com/hyejin192/react_basic/assets/129017064/a5604d8d-daf1-4b47-be6c-c5c39dceb326)
+
 
 
 
