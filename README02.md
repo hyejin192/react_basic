@@ -1,7 +1,8 @@
 # 📰 componet 만들기
 
-       폴더 #react2 참조 
+       폴더 #react2 참조 (무조건 파일이름의 첫글자는 대문자로)
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/221c642b-027d-4849-bde7-1edf42a51c93)
+
 
 # 🧃 JSX문법
 
