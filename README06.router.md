@@ -38,6 +38,7 @@
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/4ec4f7bf-0aa5-471c-8b3a-0b360cfaa8a3)
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/279d0f8f-0e01-4881-afde-85aa0debcd2d)
 
+      {title}이 결국 {title:props.title}  title경로 중요
 
 
 
