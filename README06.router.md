@@ -43,6 +43,9 @@
 ### 삭제버튼 만들기
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/e91e80d7-23e6-4b07-8bdb-2389e9e95b22)
 
+![image](https://github.com/hyejin192/react_basic/assets/129017064/e08d0b56-fe93-404c-a340-0bad06cf053d)
+
+
   
 
 
