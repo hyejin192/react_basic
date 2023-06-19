@@ -34,6 +34,11 @@
  ### 화면에 출력 (useEffect 의존성배열함수)
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/cb9fc4dc-7931-4771-b33e-17d27ef799fa)
 
+## card.js 생성
+![image](https://github.com/hyejin192/react_basic/assets/129017064/4ec4f7bf-0aa5-471c-8b3a-0b360cfaa8a3)
+![image](https://github.com/hyejin192/react_basic/assets/129017064/279d0f8f-0e01-4881-afde-85aa0debcd2d)
+
+
 
 
 
