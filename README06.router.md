@@ -31,6 +31,7 @@
  
  ![image](https://github.com/hyejin192/react_basic/assets/129017064/220b8edc-2f32-4cf6-9795-57ce101619fe)
    
+ ### 화면에 출력 (useEffect 의존성배열함수)
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/cb9fc4dc-7931-4771-b33e-17d27ef799fa)
 
 
