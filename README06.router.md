@@ -39,8 +39,9 @@
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/279d0f8f-0e01-4881-afde-85aa0debcd2d)
 
       {title}이 결국 {title:props.title}  title경로 중요
+      
 ### 삭제버튼 만들기
-![image](https://github.com/hyejin192/react_basic/assets/129017064/c9a846df-32bc-4904-b326-137d566addf2)
+![image](https://github.com/hyejin192/react_basic/assets/129017064/e91e80d7-23e6-4b07-8bdb-2389e9e95b22)
 
   
 
