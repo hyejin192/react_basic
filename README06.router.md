@@ -45,6 +45,10 @@
 
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/e08d0b56-fe93-404c-a340-0bad06cf053d)
 
+## ✴️ usenavigate
+![image](https://github.com/hyejin192/react_basic/assets/129017064/fb98fa79-4188-411d-959f-59022897c5a2)
+
+
 
   
 
