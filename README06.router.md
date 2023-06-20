@@ -57,7 +57,11 @@
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/05216987-7c16-40ce-a89b-3e9281dec707)
 
       filter함수를 사용해 클릭한 id를 제외한 나머지를 화면에 나타나게 함
-      
+
+![image](https://github.com/hyejin192/react_basic/assets/129017064/71ec9541-eb5e-474d-8de3-2a4dabb74854)
+
+      usenavigate를 사용해 post 버튼을 누르면 다시 blog로 넘어가게 함
+
 
 
 
