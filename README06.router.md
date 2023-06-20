@@ -48,6 +48,11 @@
 ## ✴️ usenavigate
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/fb98fa79-4188-411d-959f-59022897c5a2)
 
+## propagation
+![image](https://github.com/hyejin192/react_basic/assets/129017064/cfa5ec70-027a-4eac-b953-23fc2a1260e8)
+
+      부모의 명령문을 따라가지 않게 함
+
 
 
   
