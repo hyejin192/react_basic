@@ -29,6 +29,10 @@
       
  ## route.js를 사용
  ![image](https://github.com/hyejin192/react_basic/assets/129017064/a5604d8d-daf1-4b47-be6c-c5c39dceb326)
+ ![image](https://github.com/hyejin192/react_basic/assets/129017064/fe6a358f-6de6-4a2c-8af6-e317ff2a0839)
+
+       routes.js를 App.js에 연결
+
  
  ## rest
  
