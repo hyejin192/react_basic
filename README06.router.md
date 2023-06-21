@@ -9,6 +9,10 @@
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/ff22d413-8a83-463b-9b83-7c38035a52bc)
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/d51da4bf-0110-4bbb-b541-1673ab154efb)
 
+## components 폴더 안에 blogform에 내용 옮기기
+![image](https://github.com/hyejin192/react_basic/assets/129017064/22766fa5-cb6f-4201-af95-90e26148b99b)
+
+
 ## hompage와 about 연결
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/7e0972e4-4ee1-46d2-9096-de178cfbefe2)
 
