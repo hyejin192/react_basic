@@ -63,6 +63,9 @@
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/cfa5ec70-027a-4eac-b953-23fc2a1260e8)
 
       부모의 명령문을 따라가지 않게 함
+![image](https://github.com/hyejin192/react_basic/assets/129017064/e35be3de-02f6-4f15-bb3e-be8f81ccf32b)
+
+      실무에선 이렇게 사용
 
 ### filter함수 사용
 ![image](https://github.com/hyejin192/react_basic/assets/129017064/05216987-7c16-40ce-a89b-3e9281dec707)
